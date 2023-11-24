@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "thuonghieu": "111113332dáđá",
+      "mota": "1111111dassssssss",
+      "original_price": "0",
+      "name": "áo polo",
+      "id": 6
+    },
+    {
+      "thuonghieu": "sdasdasdasdas",
+      "mota": "112",
+      "original_price": 333,
+      "name": "2",
+      "id": 7
+    },
+    {
+      "thuonghieu": "dsa",
+      "mota": "dsasa",
+      "original_price": 12312,
+      "name": "đâ",
+      "id": 8
+    },
+    {
+      "thuonghieu": "dsa",
+      "mota": "21312",
+      "original_price": 123,
+      "name": "tien viiet",
+      "id": 9
+    }
+  ]
+}
